@@ -5,11 +5,11 @@
 
 -----------------------------------------------
 
-🛸 Developer Full-Stack and Aliare
-💻 Studying computer science
-🗣️ Fluent in English and Portuguese
-🤓 Learning English and Portuguese
-🔗 Also learning "mindset"
+- 🛸 Developer Full-Stack and Aliare
+- 💻 Studying computer science
+- 🗣️ Fluent in English and Portuguese
+- 🤓 Learning English and Portuguese
+- 🔗 Also learning "mindset"
 
 -----------------------------------------------
 
