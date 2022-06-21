@@ -8,7 +8,7 @@
 - 🤓 Learning English and Portuguese
 - 🔗 Also learning "mindset"
 
-
+--------------------------------------------------------------------------------
 <a href="https://www.linkedin.com/in/pedro-lima-bezerra-b16aa4213/">
   <img align="left" alt="Pedro Lima | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -21,7 +21,7 @@
   <img align="left" alt="Pedro Lima | Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1920px-Spotify_logo_without_text.svg.png" />
 </a>
 
-
+-----------------------------------------------------------------------------------------
 
 ## 🛠 Languages and Tools
 
@@ -41,7 +41,7 @@
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="max-width: 100%;">
 
-
+------------------------------------------------------------------------------------------------
 
 
 <a href="https://github.com/pedroLimaifg/github-readme-stats">
