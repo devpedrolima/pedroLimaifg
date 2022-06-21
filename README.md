@@ -11,7 +11,7 @@
 
 ### 🎧 Spotify Playing
 
-[<img src="https://spotify-now-playing-lohhans.vercel.app/api/spotify" alt="lohhans Spotify Playing" width="350" />](https://open.spotify.com/user/12148950715)
+[<img src="https://spotify-now-playing-lohhans.vercel.app/api/spotify" alt="lohhans Spotify Playing" width="350" />](https://open.spotify.com/user/21w5wvco6uwin3pijl4cqws4y)
 
  
 
