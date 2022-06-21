@@ -22,14 +22,13 @@
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;">
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a>
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="max-width: 100%;">
 
 
----------------------------
 ### 🎧 Spotify Playing
 
 [<img src="https://spotify-now-playing-lohhans.vercel.app/api/spotify" alt="Pedro Lima Spotify Playing" width="350" />](https://open.spotify.com/user/21w5wvco6uwin3pijl4cqws4y)
@@ -39,6 +38,8 @@
 <div>
   <a href="https://www.linkedin.com/in/pedro-lima-bezerra-b16aa4213/ target=" _blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apipedroLimaifg=anuraghazra)](https://github.com/pedroLimaifg/github-readme-stats)
 
 ![Snake animation](https://github.com/mlarasusan/mlarasusan/blob/output/github-contribution-grid-snake.svg)
 
