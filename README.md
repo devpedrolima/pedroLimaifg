@@ -8,7 +8,11 @@
 - 🤓 Learning English and Portuguese
 - 🔗 Also learning "mindset"
 
+-------------------------------------------------------------------
 
+## My programmer Linguages 
+
+---------------------------
 ### 🎧 Spotify Playing
 
 [<img src="https://spotify-now-playing-lohhans.vercel.app/api/spotify" alt="Pedro Lima Spotify Playing" width="350" />](https://open.spotify.com/user/21w5wvco6uwin3pijl4cqws4y)
