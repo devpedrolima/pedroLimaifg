@@ -7,7 +7,7 @@
 - 🗣️ Fluent in English and Portuguese
 - 🤓 Learning English and Portuguese
 - 🔗 Also learning "mindset"
-
+<!-- Vertical Spacer -->
 --------------------------------------------------------------------------------
 <a href="https://www.linkedin.com/in/pedro-lima-bezerra-b16aa4213/">
   <img align="left" alt="Pedro Lima | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -20,11 +20,13 @@
 <a href="https://open.spotify.com/user/21w5wvco6uwin3pijl4cqws4y">
   <img align="left" alt="Pedro Lima | Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1920px-Spotify_logo_without_text.svg.png" />
 </a>
-
+<!-- Vertical Spacer -->
 -----------------------------------------------------------------------------------------
 
 ## 🛠 Languages and Tools
 
+<!-- Vertical Spacer -->
+-----------------------------------------------------------------------------------------------
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;">
 
 <img align="left" alt="Flutter" width="26px" src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="max-width: 100%;">
@@ -44,9 +46,7 @@
 ------------------------------------------------------------------------------------------------
 
 
-<a href="https://github.com/pedroLimaifg/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lohhans&show_icons=true&count_private=true&theme=dark" width="360" />
-</a>
+<!-- Vertical Spacer -->
 ------------------------------------------------------------------------
 
 
