@@ -2,11 +2,12 @@
 - 👀 I’m programmer
 - 🌱 I livin in Brazil
 - 💞️ I love helping other programmers
-- 🛸 Developer Full-Stack and Aliare
+- 🛸 Developer Full-Stack and Front - End 
 - 💻 Studying computer science
 - 🗣️ Fluent in English and Portuguese
 - 🤓 Learning English and Portuguese
 - 🔗 Also learning "mindset"
+- 📷 I'm Photographer 
 
 <br>
 <h2> My social networks 🤳📱</h2>
