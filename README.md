@@ -5,7 +5,6 @@
 - 🛸 Developer Full-Stack and Front - End 
 - 💻 Studying computer science
 - 🗣️ Fluent in English and Portuguese
-- 🤓 Learning English and Portuguese
 - 📷 I'm Photographer 
 
 <br>
