@@ -6,6 +6,7 @@
 - 💻 Studying computer science
 - 🗣️ Fluent in English and Portuguese
 - 📷 I'm Photographer 
+- 👨‍💻 I'm a front-end programmer on the Github Education part
 
 <br>
 <h2> My social networks 🤳📱</h2>
