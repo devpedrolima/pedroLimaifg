@@ -2,7 +2,7 @@
 - 👀 I’m programmer
 - 🌱 I livin in Brazil
 - 💞️ I love helping other programmers
-- 🛸 Developer Full-Stack and Front - End 
+- 🛸 Developer Front-end and Web Designer
 - 💻 Studying computer science
 - 🗣️ Fluent in English and Portuguese
 - 📷 I'm Photographer 
