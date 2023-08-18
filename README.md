@@ -11,7 +11,7 @@
 <br>
 <h2> My social networks 🤳📱</h2>
 <a href="https://www.linkedin.com/in/pedro-lima-bezerra-b16aa4213/">
-  <img align="left" alt="Pedro Lima | LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://cdn-icons-png.flaticon.com/512/174/174857.png)" />
+  <img align="center" alt="Pedro Lima | LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://cdn-icons-png.flaticon.com/512/174/174857.png)" />
 </a>
 
 <a href="https://www.instagram.com/dev.pedrolima">
@@ -45,9 +45,3 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="max-width: 100%;">
 
 <br>
-
-<!-- Vertical Spacer -->
-![Snake animation](https://github.com/mlarasusan/mlarasusan/blob/output/github-contribution-grid-snake.svg)
-
-
-
