@@ -11,7 +11,7 @@
 <br>
 <h2> My social networks 🤳📱</h2>
 <a href="https://www.linkedin.com/in/pedro-lima-bezerra-b16aa4213/">
-  <img align="center" alt="Pedro Lima | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/640px-Linkedin_circle.svg.png" />
+  <img align="center" alt="Pedro Lima | LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/640px-Linkedin_circle.svg.png" />
 </a>
 
 <a href="https://www.instagram.com/dev.pedrolima">
